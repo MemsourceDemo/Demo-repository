@@ -7,7 +7,7 @@
 
 \f0\fs24 \cf0 IBM\
 Sample text\
-Guidance and explanatory notes\
+Guidance and explanatory notes and observations and comments and such\
 Memsource\
 Windows\
 1000}
