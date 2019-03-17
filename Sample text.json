@@ -4,7 +4,7 @@
       "servlet-name": "cofaxCDS",
       "servlet-class": "org.cofax.cds.CDSServlet",
       "init-param": {
-        "configGlossary:installationAt": "Philadelphia, PA and other locations",
+        "configGlossary:installationAt": "Philadelphia, PA and other locations and places",
         "configGlossary:adminEmail": "ksm@pobox.com",
         "configGlossary:poweredBy": "Cofax",
         "configGlossary:poweredByIcon": "/images/cofax.gif",
